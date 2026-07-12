@@ -1,0 +1,10 @@
+{
+  "audit_created_datetime": "2026-06-22T01:46:39.621574Z",
+  "run_id": "20260622_013439",
+  "script_filename": "signal_v526.py",
+  "script_created_datetime": "2026-06-11T16:02:49.687575Z",
+  "script_sha256": "1f76c5e62debd50b7e40880e1f82b1c5154735b6d829290ab03d3eca75d50d44",
+  "model_filename": "model_v526_20260622_013439.csv",
+  "model_created_datetime": "2026-06-22T01:44:29.729336Z",
+  "model_sha256": "2921f4ae9c170f2bbbb395eb8551f05bbd8d7b3c71ff58d0a251237cf34e943e"
+}
