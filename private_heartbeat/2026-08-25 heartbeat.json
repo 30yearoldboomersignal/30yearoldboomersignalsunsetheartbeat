@@ -1,0 +1,10 @@
+{
+  "current_datetime": "2026-08-25T16:00:47.823069Z",
+  "current_private_signal": "AGGRO",
+  "private_signal_delay_hours": 0,
+  "model": {
+    "model_filename": "model_v526_20260622_013439.csv",
+    "model_creation_date": "2026-06-21",
+    "model_hash": "2921f4ae9c170f2bbbb395eb8551f05bbd8d7b3c71ff58d0a251237cf34e943e"
+  }
+}
